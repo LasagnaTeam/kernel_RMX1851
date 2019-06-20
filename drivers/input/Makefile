@@ -36,7 +36,7 @@ obj-$(CONFIG_INPUT_KEYCOMBO)	+= keycombo.o
 
 #ifdef VENDOR_EDIT
 #Long.Liu@BSP.Fingerprint.Secure, 2018/06/22, Add for oppo secure common.
-obj-y += misc/oppo_seccommon_drivers/
+#obj-y += misc/oppo_seccommon_drivers/
 #endif
 
 #ifdef VENDOR_EDIT
